@@ -1,3 +1,75 @@
+#content-interno {
+	background-color: #fff;
+	padding: 33px 55px 40px 31px;
+	border-radius: 10px;
+	box-shadow: 0 3px 12px 0 rgba(136, 135, 135, 0.15);
+}
+
+#content-interno h3 {
+        font-size: 16px;
+	line-height: 24px;
+	text-transform: uppercase;
+	font-weight: normal;
+	color: #1c1d22;
+}
+
+.property h4 {
+	margin: 32px 14px 6px 0;
+	font-size: 16px !important;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 24px;
+	letter-spacing: normal;
+	text-align: left;
+	color: #1c1d22;
+}
+
+.value {
+	margin: 6px 244px 16px 0;
+	font-size: 16px !important; 
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 21px;
+	letter-spacing: normal;
+	text-align: left;
+	color: #585877;
+}
+
+.property .value a {
+	font-size: 16px !important;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 21px;
+        letter-spacing: normal;
+        text-align: left;
+        color: #585877;
+}
+
+.imagem-item {
+	max-width: 353.8px;
+	height: 60.2px;
+	vertical-align: middle;
+	display: inline-block;
+	margin-bottom: 60px;
+}
+
+.property .value .language {
+	width: 32px;
+	height: 32px;
+	margin: 6px 5px 16px 0;
+	padding: 5px 8px 7px 7px !important;
+	border-radius: 5px;
+	background-color: #01579b !important;
+	display: inline;
+	color: #fff;
+	font-size: 16px !important;
+	line-height: 24px;
+	text-transform: uppercase;
+}
+
 @media screen {
     * {
         box-sizing: border-box;

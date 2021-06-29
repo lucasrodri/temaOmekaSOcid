@@ -1,3 +1,7 @@
+body {
+    background-color: #fff !important;
+}
+
 .item-showcase {
     margin: 1rem 0;
     border-top: 1px solid #dfdfdf;
